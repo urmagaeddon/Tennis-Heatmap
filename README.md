@@ -1,5 +1,6 @@
 # Tennis-Heatmap
 Tracks the main player (1) with a trailing tail to help users improve positioning in relation to the worlds best
+WORKS WITH ANY VID FILE NAMED test.mp4 :)
 
 # Simple SwingVision - Player Tracking System
 
